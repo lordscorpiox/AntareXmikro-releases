@@ -32,4 +32,4 @@ AntareXmikro está en desarrollo activo y se mejora con frecuencia. Algunas func
 
 ---
 
-Desarrollado por Lord ScorpioX y Claude. AntareXmikro es una aplicación independiente y no está afiliada a MikroTik. MikroTik y RouterOS son marcas de sus respectivos dueños.
+Desarrollado por Lord ScorpioX · Powered by Claude AI. AntareXmikro es una aplicación independiente y no está afiliada a MikroTik. MikroTik y RouterOS son marcas de sus respectivos dueños.
